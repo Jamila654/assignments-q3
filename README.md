@@ -7,3 +7,5 @@ to-do-app website link: https://to-doo.streamlit.app/
 unit converter website link: https://jamila654-assignments-q3-unit-coverterapp-xiqt0n.streamlit.app/
 
 contact-book: https://contact-book-jam.streamlit.app/
+
+password-strength-meter website link: https://jamila654-assignments-q3-password-strength-metermain-du2aio.streamlit.app/
