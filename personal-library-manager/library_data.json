@@ -1,12 +1,3 @@
 {
-    "books": [
-        {
-            "title": "it ends with us",
-            "author": "colleen hoover",
-            "isbn": "",
-            "genre": "Fiction",
-            "status": "To Read",
-            "added_date": "2025-03-11"
-        }
-    ]
+    "books": []
 }
