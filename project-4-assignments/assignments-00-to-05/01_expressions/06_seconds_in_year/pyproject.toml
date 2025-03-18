@@ -1,0 +1,7 @@
+[project]
+name = "06-seconds-in-year"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
