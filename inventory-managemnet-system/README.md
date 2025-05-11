@@ -45,4 +45,4 @@ This system is ideal for educational purposes, basic inventory tracking for smal
 ```bash
 pip install jam-inventory-managemnet-system
 
-run using this commad inventory
+run using this command: inventory
